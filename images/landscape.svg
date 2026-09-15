@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 140" width="240" height="140" role="img" aria-label="A drawn landscape, hills under a sun">
+  <rect width="240" height="140" fill="#cfe8ff"/>
+  <circle cx="190" cy="38" r="20" fill="#ffc107"/>
+  <path d="M0 110 Q 60 60 120 100 T 240 95 V140 H0 Z" fill="#6cb04a"/>
+  <path d="M0 125 Q 80 95 160 120 T 240 118 V140 H0 Z" fill="#4e8f36"/>
+</svg>
